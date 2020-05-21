@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Stade d\'eaux vives</string>
+    <string name="Menu">Menu</string>
+    <string name="lesVannes">Les Vannes</string>
+    <string name="leTapis">Le Tapis</string>
+    <string name="description" />
+    <string name="ecrire">écrire</string>
+    <string name="lire">lire</string>
+    <string name="vanne1">vanne 1</string>
+    <string name="vanne2">vanne 2</string>
+    <string name="vanne3">Vanne 3</string>
+    <string name="vanne4">Vanne 4</string>
+    <string name="vanne5">Vanne 5</string>
+    <string name="vanne6">Vanne 6</string>
+    <string name="vanne7">Vanne 7</string>
+    <string name="txtView">0</string>
+</resources>
